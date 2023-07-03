@@ -14,8 +14,9 @@ Tu trouveras dans la liste quelques pistes pour éviter de te décourager
 
 - Le chiffrement est symétrique et mono-alphabétique
 - L'algorithme de chiffrement utilisé est parmis les plus ancienne methodes utilisées
-- Le texte est long pour une bonne raison
+- Le poème est en français
+- Le poème est long pour une bonne raison
 - La casse (lettre minuscule ou majuscule) n'a aucune importance
-- https://fr.wikipedia.org/wiki/Cryptographie_sym%C3%A9trique
-- https://fr.wikipedia.org/wiki/Cryptanalyse
+- [Cryptographie_symétrique](https://fr.wikipedia.org/wiki/Cryptographie_sym%C3%A9trique)
+- [Cryptanalyse](https://fr.wikipedia.org/wiki/Cryptanalyse)
 - https://chat.openai.com
